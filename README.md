@@ -1,3 +1,28 @@
+# Chat on react and firebase
+
+This is a single page application developed by React - simple Chat.
+
+---
+
+![alt text](src/img/Registration.jpg "Screen of Registration-page")
+
+---
+
+## Stack of technology:
+
+* React
+* Firebase Auth
+* Firestore
+* Firebase Hooks
+* React Router
+* Material UI
+
+---
+
+![alt text](src/img/Chat.jpg "Screen of Chat-page")
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
